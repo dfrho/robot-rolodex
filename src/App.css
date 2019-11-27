@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+h1 {
+  font-family: 'Roboto Slab';
+  font-size: 60px;
+  color: #422F6B
+}
+
 .App-logo {
   height: 40vmin;
 }
